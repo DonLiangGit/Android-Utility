@@ -1,5 +1,6 @@
 Android-Utility
 ===============
+Reference: [Jackson & GSON](http://java.dzone.com/articles/be-lazy-productive-android)
 
 ###Jackson Json Processor
 1. [Jackson Json Processor](http://jackson.codehaus.org/)
