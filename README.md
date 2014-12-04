@@ -1,6 +1,6 @@
 Android-Utility
 ===============
-Reference: [Jackson & GSON](http://java.dzone.com/articles/be-lazy-productive-android)
+Reference: [Jackson & GSON](http://java.dzone.com/articles/be-lazy-productive-android)  
 [JSON Example with Jackson](http://www.mkyong.com/java/jackson-streaming-api-to-read-and-write-json/)
 
 ###Jackson Json Processor
