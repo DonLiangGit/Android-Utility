@@ -27,4 +27,4 @@ tempString = mapper.writeValueAsString(mAddress);
 ####GSON
 1. [GSON](https://code.google.com/p/google-gson/)
 2. Installation in Gradle:  
-<code>compile 'com.google.code.gson:gson:*.*.*'</code>
+<code>compile 'com.google.code.gson:gson:x.x.x'</code>
